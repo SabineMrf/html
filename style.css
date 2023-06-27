@@ -1,0 +1,43 @@
+ h1 {
+     color: burlywood;
+     font-size: xx-large;
+
+ }
+ p{color: sienna ;
+    font-weight: bold;
+    transition: all;
+
+
+font-size:medium
+;}
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+ }
+ ul li {
+    list-style-type: none;
+    
+ }
+ ul li a{
+    background-color: bisque;
+    color: brown;
+ }
+ a{
+    background-color: bisque;
+        color: sienna;
+ }
+ div{
+    height: 267px;
+    width: 400px
+
+ }
+.ahwe-img{
+    background: url('./images/ahwe.jpeg');
+}
+table ,th,td,tr{
+   align-self: center;
+   text-align:center;
+   border :1px solid ;
+   width: 25%;
+}
